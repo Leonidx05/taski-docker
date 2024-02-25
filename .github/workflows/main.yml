@@ -99,7 +99,7 @@ jobs:
         node-version: 18
 
     - name: Install dependencies
-      # Эта команда устанавливает зависимости111
+      # Эта команда устанавливает зависимости1
       run: |
         cd frontend/
         npm ci
